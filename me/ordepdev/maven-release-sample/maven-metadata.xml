@@ -3,10 +3,10 @@
   <groupId>me.ordepdev</groupId>
   <artifactId>maven-release-sample</artifactId>
   <versioning>
-    <release>1.0.0-RELEASE</release>
+    <release>1.0.1-RELEASE</release>
     <versions>
-      <version>1.0.0-RELEASE</version>
+      <version>1.0.1-RELEASE</version>
     </versions>
-    <lastUpdated>20170524222259</lastUpdated>
+    <lastUpdated>20170524224241</lastUpdated>
   </versioning>
 </metadata>
