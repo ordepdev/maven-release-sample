@@ -4,12 +4,12 @@
 
     <groupId>me.ordepdev</groupId>
     <artifactId>maven-release-sample</artifactId>
-    <version>1.0.1-RELEASE</version>
+    <version>1.0.2-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <scm>
         <connection>scm:git:git@github.com:ordepdev/maven-release-sample.git</connection>
-      <tag>v1.0.1-RELEASE</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <distributionManagement>
