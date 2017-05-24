@@ -24,8 +24,10 @@
 
 `$ git checkout -b release/1.0.0`
 
-`$ mvn --batch-mode release:prepare release:perform \
+```
+$ mvn --batch-mode release:prepare release:perform \
        -DreleaseVersion=1.0.0-RELEASE -DdevelopmentVersion=1.0.1-SNAPSHOT`
+```
 
 At this point `pom.xml` on the current branch should look like this:
 ```
