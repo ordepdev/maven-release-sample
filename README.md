@@ -35,9 +35,9 @@ At this point `pom.xml` on the current branch should look like this:
 ```
 `$ git checkout development`
 
-`$ git merge -m "Merge release/1.0.1 into development" release/1.0.0`
+`$ git merge -m "Merge release/1.0.0 into development" release/1.0.0`
 
-Development will be a mirror of release/1.0.1 with 1.0.1-SNAPSHOT as the current version.
+Development will be a mirror of release/1.0.0 with 1.0.1-SNAPSHOT as the current version.
 
 `$ git checkout master`
 
